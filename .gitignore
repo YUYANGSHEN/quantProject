@@ -20,7 +20,9 @@ env/
 *.csv
 *.h5
 *.parquet
-data/
+data/*.csv
+data/*.h5
+data/*.parquet
 
 # 日志
 *.log
